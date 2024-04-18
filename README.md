@@ -30,8 +30,8 @@
 - [x] Alterar a senha do usuário loggado
 
 **Opcionais**
-- [ ] Escrever testes automatizados simples;
-- [x] Implemente internacionalização;
+- [x] Escrever testes automatizados simples;
+- [ ] Implemente internacionalização;
 - [x] Adicione tags aos seus post, assim como filtros para utilizar as tags cadastradas. As tags deverão ser implementadas como uma nova tabela no seu modelo, associada aos posts
 
 **SUPER DIFERENCIAL**
