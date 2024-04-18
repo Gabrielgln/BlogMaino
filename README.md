@@ -1,4 +1,4 @@
-# Teste Técnico - Mainô
+# Mainô - Teste Técnico
 
 ## 💻 Projeto
 
