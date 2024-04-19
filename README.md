@@ -12,6 +12,7 @@
 - SQLite3
 - Gem: Bcrypt
 - Gem: Kaminari
+- Gem: I18n
 - Deploy ~> Fly.io
 
 ## 💥 Funcionalidades
@@ -31,7 +32,7 @@
 
 **Opcionais**
 - [x] Escrever testes automatizados simples;
-- [ ] Implemente internacionalização;
+- [x] Implemente internacionalização;
 - [x] Adicione tags aos seus post, assim como filtros para utilizar as tags cadastradas. As tags deverão ser implementadas como uma nova tabela no seu modelo, associada aos posts
 
 **SUPER DIFERENCIAL**
