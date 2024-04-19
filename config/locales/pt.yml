@@ -1,0 +1,7 @@
+pt:
+  validation:
+    invalide_email: "E-mail deve ser válido"
+  activerecord:
+    errors:
+      messages:
+        blank: "não pode ficar em branco"

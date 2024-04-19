@@ -7,6 +7,7 @@ class PostsController < ApplicationController
       @user = User.find_by(id: session[:user_id])
     end
     @posts = Post.order('posts.created_at DESC').page params[:page]
+    @current_locale = I18n.locale
   end
 
   def show
